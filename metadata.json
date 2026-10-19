@@ -1,0 +1,8 @@
+{
+  "name": "KromaRecap AI - ស្ទូឌីយោបកប្រែ & សម្រាយរឿង",
+  "description": "កម្មវិធី AI ឆ្លាតវៃសម្រាប់សម្រាយរឿង បកប្រែឯកសារ SRT ស្កេនរូបភាព Transcript សំឡេង បំបែកសម្លេងច្រៀង និងបង្កើត Voiceover ប្រុសស្រី",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
